@@ -90,8 +90,8 @@ function Services() {
           </PrimaryParagraph>
           <BulletPoint>
             Direct introductions to the team’s vast network of 100+ VC’s, Angels, and Market Markers
-            (i.e., a16z, GoldenTree, Dragonfly, Polychain, Framework, Jump, GSR, Fenbushi, Steel
-            Perlot, Lightspeed and more.
+            (i.e., a16z, GoldenTree, Dragonfly, Polychain, Framework, Jump, GSR, Fenbushi,
+            Lightspeed and more.
           </BulletPoint>
           <BulletPoint>Pitch deck structuring, review, and refinement.</BulletPoint>
           <BulletPoint>Pitch coaching.</BulletPoint>
