@@ -77,7 +77,7 @@ export const CoreTeamUsers: UserProfileProps[] = [
   {
     name: 'Chris',
     expertise: 'Community, Business Development, Events, NFT',
-    twitter_handle: undefined,
+    twitter_handle: 'tantoverse',
     github_handle: undefined,
     medium_handle: undefined,
     pfp_src: Chris_PFP
