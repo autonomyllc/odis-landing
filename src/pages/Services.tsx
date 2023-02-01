@@ -99,21 +99,10 @@ function Services() {
 
         <Accordion accordionText={'Governance Advisory'}>
           <PrimaryParagraph>
-            Focus on building your product and hiring technical talent — our team will serve as an
-            extension of your core team with business development and partnership support.
+            Provide advice on how best to structure DAO governance and governance tooling for
+            progressive decentralization
           </PrimaryParagraph>
-          <BulletPoint>
-            Warm introductions to ecosystem and protocol partners. No more having to send cold
-            messages and getting ghosted — we are, at most, 1 degree of separation form anyone in
-            the space.
-          </BulletPoint>
-          <BulletPoint>
-            We will attend conferences on your behalf to promote your product.
-          </BulletPoint>
-          <BulletPoint>
-            Develop a GTM strategy that we will initially help you execute on and provide
-            mentorship/guidance to future BD and Partnerships hires.
-          </BulletPoint>
+          <BulletPoint>More coming soon</BulletPoint>
         </Accordion>
       </SectionContainer>
     </PageWrapper>
